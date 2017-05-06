@@ -1,0 +1,16 @@
+{
+  "name": "architectural-clash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:e-xtrategy/architectural-clash.git",
+  "author": "Francesco Strazzullo <francesco.strazzullo86@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "predeploy": "markdown README.md >> index.html",
+    "deploy": "node publish"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "markdown-to-html": "^0.0.13"
+  }
+}
