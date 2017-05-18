@@ -54,7 +54,7 @@ The last 2 hours of the format are for conclusion. Take down all of your notes a
 
 ## License
 
-This contract is licensed under the WTFPL license. For more information, see the LICENSE file in this repository.
+This document is licensed under the WTFPL license. For more information, see the LICENSE file in this repository.
 ![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
 
 ![Logo](http://www.extrategy.net/themes/custom/extrategy/img/logo-extrategy.svg)
