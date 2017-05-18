@@ -6,7 +6,7 @@
   "author": "Francesco Strazzullo <francesco.strazzullo86@gmail.com>",
   "license": "WTFPL",
   "scripts": {
-    "predeploy": "markdown README.md >> index.html",
+    "predeploy": "rm index.html && markdown README.md >> index.html",
     "deploy": "node publish"
   },
   "devDependencies": {
