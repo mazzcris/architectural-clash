@@ -40,7 +40,6 @@ Before starting the clash you should choose the task. You can take ideas from th
 
 * Techinical retrospective
 * Popcorn Flow
-* Lego Serious Play
 
 You should write the task on a post-it. Most importantly you should write **why** this is a important task on the back of the post-it. All of the decisions that you will take during the two days should be driven by the "why part" that you write on the post-it.
 
