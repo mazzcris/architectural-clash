@@ -49,7 +49,7 @@ Ok time to work, just try to achieve the task. Split your time in 3 hours slot. 
 
 ### Phase 2: The outcome
 
-The last 2 hours of the format are for conclusion. Take down all of your notes and try to write an action plan to make your codebase less resistent to changes. Keep in mind that your action plan should be a valid answer to the "why part* of your task.
+The last 2 hours of the format are for conclusion. Take down all of your notes and try to write an action plan to make your codebase less resistent to changes. Keep in mind that your action plan should be a valid answer to the "why part" of your task.
 
 ## License
 
