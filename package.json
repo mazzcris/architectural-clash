@@ -6,7 +6,7 @@
   "author": "Francesco Strazzullo <francesco.strazzullo86@gmail.com>",
   "license": "WTFPL",
   "scripts": {
-    "predeploy": "rm index.html && markdown README.md >> index.html",
+    "predeploy": "markdown README.md --stylesheet style.css --title \"Architectural Clash\" >> ./dist/index.html && cp style.css ./dist/style.css",
     "deploy": "node publish"
   },
   "devDependencies": {
